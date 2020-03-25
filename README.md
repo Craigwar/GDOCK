@@ -15,6 +15,8 @@
 
 如果你只想使用固件,可以在本项目的actions下下载最新编译的固件.
 
+![Build G-DOCK](https://github.com/Cathgao/GDOCK/workflows/Build%20G-DOCK/badge.svg)
+
 1.diy.sh
 可以编辑自定义和修改的脚本,可以直接修改JK预留的脚本,也可以自己编写
 
